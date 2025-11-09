@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Student | Developer | Curious Mind</em>
+  Student | Developer | Curious Mind
 </p>
 
 ---
