@@ -5,13 +5,13 @@
 </h1>
 
 <p align="center">
-  <em>Student | Developer | Curious Mind in Applied Computation</em>
+  <em>Student | Developer | Curious Mind</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Exploring+Data+and+Theory;Building+Tools+that+Explain+and+Predict;Bridging+Research+and+Application" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=600&color=6366F1&center=true&vCenter=true&width=600&lines=Curiosity+about+how+machines+understand+language;Exploring+the+boundaries+of+artificial+intelligence;Bridging+technology+and+human+expression;Advocating+for+ethical+and+responsible+AI;Designing+systems+that+assist+and+educate;Pursuing+AI+that+understands+creativity+and+context" alt="Typing animation" />
 </p>
 
 ---
